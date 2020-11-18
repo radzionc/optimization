@@ -1,9 +1,11 @@
-# optimization
+# Optimization
+Simplex Method and Transportation Problem Tutorials.
+
 > 
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*xXhwdIV6bNIcSCUAJjnBMw.png)
 
-## [Story on Medium](https://medium.com/@geekrodion/linear-programming-introduction-e0547f3db30d)
+## [Blog Post](https://geekrodion.com/blog/operations)
 
 ## License
 
